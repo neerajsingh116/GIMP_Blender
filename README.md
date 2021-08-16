@@ -1,2 +1,3 @@
 - [GIMP & Blender Intro](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp1_Gimp%20and%20Blender%20Intro.docx)
 - [WordArt](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp2_WordArt.xcf)
+- [Logo](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp3_Logo.xcf)
