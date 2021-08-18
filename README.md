@@ -2,3 +2,4 @@
 - [WordArt](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp2_WordArt.xcf)
 - [Logo](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp3_Logo.xcf)
 - [Pose](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp4_Pose.xcf)
+- [Wordart](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp5_Wordart.blend)
