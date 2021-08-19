@@ -4,3 +4,4 @@
 - [Pose](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp4_Pose.xcf)
 - [Wordart](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp5_Wordart.blend)
 - [Hut](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp6_Hut.blend)
+- [Rocket](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp7_Rocket.blend)
