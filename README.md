@@ -6,3 +6,4 @@
 - [Hut](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp6_Hut.blend)
 - [Rocket](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp7_Rocket.blend)
 - [Car](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp8_Car.blend)
+- [Mountain](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Mountain.xcf)
