@@ -8,3 +8,4 @@
 - [Car](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Exp8_Car.blend)
 - [Mountain](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Mountain.xcf)
 - [Phone](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Phone.xcf)
+- [SkyScaper](https://github.com/neerajsingh116/GIMP_Blender/blob/main/Skyscaper_Building.blend)
